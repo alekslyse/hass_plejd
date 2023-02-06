@@ -18,7 +18,7 @@ HARDWARE_TYPES = {
     "6": Device("WPH-01", SWITCH, False),
     "7": Device("REL-01", SWITCH, False),
     "8": Device("SPR-01", SWITCH, False),
-    "10": Device("WRT-01", SWITCH, False),
+    "10": Device("WRT-01", SWITCH, True),
     "11": Device("DIM-01-2P", LIGHT, True),
     "13": Device("Generic", LIGHT, False),
     "14": Device("DIM-01-LC", LIGHT, True),
